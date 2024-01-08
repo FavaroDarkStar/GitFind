@@ -18,7 +18,7 @@ O Git Find é uma aplicação que utiliza a API do GitHub para recuperar informa
 1. Clone o repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/git-find.git
+   git clone https://github.com/FavaroDarkStar/git-find.git
    ```
 
 2. Acesse o diretório do projeto:
@@ -40,5 +40,7 @@ O Git Find é uma aplicação que utiliza a API do GitHub para recuperar informa
    ```
 
 5. Abra o navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar o aplicativo em ação.
+
+6. Preencha o campo '@username' com o login do usuário e clique no botão 'Search'.
 
 Agora você está pronto para explorar e experimentar o Git Find!
