@@ -1,30 +1,29 @@
-# Projeto: Git Finder
+# Projeto: Git Find
 
 Este projeto foi desenvolvido como parte do curso **Primeira Aplicação em React - Digital Innovation One**.
 
-![GitFinder](./src/preview.jpeg)
+![GitFind](./public/preview.png)
 
 ## Descrição
-O Git Finder é uma aplicação que utiliza a API do GitHub para recuperar informações de perfil com base no nome de usuário fornecido. Ele apresenta dados como nome do usuário, login, foto de perfil e os nomes com suas respectivas descrições dos repositórios associados.
+O Git Find é uma aplicação que utiliza a API do GitHub para recuperar informações de perfil com base no nome de usuário fornecido. 
 
 ## Funcionalidades
 - Buscar usuário do GitHub e exibir informações como:
-  - Nome do usuário
-  - Login
-  - Nomes e descrições dos repositórios
+  - Nome, Login e Foto do usuário
+  - Nome e descrição dos repositórios públicos do usuário
 
 ## Como usar
 
 1. Clone o repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/git-finder.git
+   git clone https://github.com/seu-usuario/git-find.git
    ```
 
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd git-finder
+   cd git-find
    ```
 
 3. Instale as dependências necessárias:
@@ -41,4 +40,4 @@ O Git Finder é uma aplicação que utiliza a API do GitHub para recuperar infor
 
 5. Abra o navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar o aplicativo em ação.
 
-Agora você está pronto para explorar e experimentar o Git Finder!
+Agora você está pronto para explorar e experimentar o Git Find!
