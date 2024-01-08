@@ -2,7 +2,8 @@
 
 Este projeto foi desenvolvido como parte do curso **Primeira Aplicação em React - Digital Innovation One**.
 
-![GitFinder](./src/preview.png)
+![GitFinder](./src/preview1.png)
+![GitFinder](./src/preview2.png)
 
 ## Descrição
 O Git Finder é uma aplicação que utiliza a API do GitHub para recuperar informações de perfil com base no nome de usuário fornecido. Ele apresenta dados como nome do usuário, login, foto de perfil e os nomes com suas respectivas descrições dos repositórios associados.
