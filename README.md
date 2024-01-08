@@ -19,8 +19,8 @@ O Git Find é uma aplicação que utiliza a API do GitHub para recuperar informa
 
    ```bash
    git clone https://github.com/FavaroDarkStar/git-find.git
-   ```
-
+   ``` 
+ 
 2. Acesse o diretório do projeto:
 
    ```bash
