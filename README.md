@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte do curso **Primeira Aplicação em React - Digital Innovation One**.
 
-![GitFind](./public/preview1.png)
+![GitFind](./public/preview1.jpeg)
 ![GitFind](./public/preview2.jpeg)
 
 ## Descrição
