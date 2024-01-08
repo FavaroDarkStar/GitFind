@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte do curso **Primeira Aplicação em React - Digital Innovation One**.
 
-![GitFind](./public/preview.png)
+![GitFind](./public/preview.jpeg)
 
 ## Descrição
 O Git Find é uma aplicação que utiliza a API do GitHub para recuperar informações de perfil com base no nome de usuário fornecido. 
